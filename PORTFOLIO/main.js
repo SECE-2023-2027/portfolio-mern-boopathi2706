@@ -68,7 +68,7 @@ function toggleIcon(element) {
 
 document.getElementById('downloadBtn').addEventListener('click', () => {
     const link = document.createElement('a');
-    link.href = './PORTFOLIO/img/BOOPATHI_V(RESUME).pdf';
+    link.href = './PORTFOLIO/img/BOOPATHI_V(RESUME).pdf.pdf';
     link.download = 'BOOPATHI_VIJAYAN(RESUME).pdf'; 
     document.body.appendChild(link);
     link.click();

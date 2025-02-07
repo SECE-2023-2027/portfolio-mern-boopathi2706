@@ -35,7 +35,6 @@ body{
     justify-content: space-around;
     border-bottom: 0.5px solid var(--line-1);
     position: sticky;
-    background: linear-gradient(rgba(0, 0, 0, 0.063),rgba(0, 0, 0, 0.112));
     top: 0;
     z-index: 1;
 
